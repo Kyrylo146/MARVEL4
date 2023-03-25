@@ -1,0 +1,33 @@
+body {  
+    background-color: aquamarine
+  }
+
+h1 {
+    color: rgb(236, 100, 100);
+    font-size: 45px;
+    text-align: center;
+    box-shadow : 40px;
+}
+
+  li {
+      font-size: 22px;
+      color:yellowgreen;
+
+}
+.text-1 {
+    color:mediumaquamarine;
+}
+.text-2 {
+   color:bisque;
+}   
+.text-3  {
+    color:black;
+}
+.photo-1 {
+    width: 500px;
+    height: 200px;
+    margin-left: 250px;
+}
+.linb {
+     text-decoration: none
+}
